@@ -43,7 +43,7 @@ html {
 }
 
 .introduction {
-	background-image: url('images/first-background.jpg');
+	background-image: url('/e/Projects/startup-landing-page-clone/images/first-background.jpg');
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	background-size: cover;
